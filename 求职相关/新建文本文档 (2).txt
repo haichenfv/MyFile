@@ -1,0 +1,23 @@
+熟练 .NET框架，C# 开发语言、C/S和B/S 开发。
+熟练 SQL Server、Mysql和Oracle数据库的设计与开发。
+熟练 PowerDesign数据库设计、GitHub、SVN 辅助软件。
+熟练 Web Service，Jason, Socket，Http，XML通讯技术。
+熟练 java 开发语言，maven,mybatis框架。
+
+熟练使用office办公软件，Visio 画图工具，Rational Rose UML 工具。
+熟练使用Photoshop 图像处理工具；
+熟练使用doclever,postman接口调试软件；
+熟练使用Matlab 建模软件；
+熟悉Dreamwear、eclipse开发软件、Unity 开发软件；
+熟悉python、并自学有关深度学习的知识。
+熟悉 C++ 语言，html5,java；
+
+
+
+工作经验：
+2017/4 进入心医国际数字医疗系统（大连）有限公司工作
+2017/4 至今 负责EMR产品研发实施部的相关工作，是项目组中的核心开发人员。具体负责：1、项目编辑器的编写和维护（包含文书编辑器和护理编辑器以及产程图）。 2、不同医院的硬件数据对接（如移动护理、血糖仪）。 3、医嘱模块的设计和编写，实现医生下医嘱，护士审核并执行医嘱的相关功能。 4、医院知识库建设（通过识别主述症状和检验检查中的病情描述，提供医生病种判断换个依据）
+
+
+
+6、医院随访系统，使用java,maven,mybatis技术实现随访的开具和执行。主要负责后端接口的编写。
