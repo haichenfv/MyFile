@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luo Aiqun\\source\\repos\\NetCoreDemo\\NetCoreDemo\\NetCoreDemo.csproj",
+      "projectUniqueName": "D:\\luo'sGitFile\\MyFile\\C# files\\NetCoreDemo\\NetCoreDemo\\NetCoreDemo.csproj",
       "projectName": "NetCoreDemo",
-      "projectPath": "C:\\Users\\Luo Aiqun\\source\\repos\\NetCoreDemo\\NetCoreDemo\\NetCoreDemo.csproj",
+      "projectPath": "D:\\luo'sGitFile\\MyFile\\C# files\\NetCoreDemo\\NetCoreDemo\\NetCoreDemo.csproj",
       "packagesPath": "C:\\Users\\Luo Aiqun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luo Aiqun\\source\\repos\\NetCoreDemo\\NetCoreDemo\\obj\\",
+      "outputPath": "D:\\luo'sGitFile\\MyFile\\C# files\\NetCoreDemo\\NetCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

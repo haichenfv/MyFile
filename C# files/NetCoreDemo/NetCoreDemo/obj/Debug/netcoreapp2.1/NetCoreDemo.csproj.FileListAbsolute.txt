@@ -12,3 +12,17 @@ C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\
 C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorTargetAssemblyInfo.cache
 C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.dll
 C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.pdb
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.deps.json
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.runtimeconfig.json
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.runtimeconfig.dev.json
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.dll
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.pdb
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.csprojAssemblyReference.cache
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.csproj.CoreCompileInputs.cache
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorAssemblyInfo.cache
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorAssemblyInfo.cs
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.AssemblyInfoInputs.cache
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.AssemblyInfo.cs
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorTargetAssemblyInfo.cache
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.dll
+D:\luo'sGitFile\MyFile\C# files\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.pdb
