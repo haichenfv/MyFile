@@ -1,0 +1,14 @@
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.deps.json
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.runtimeconfig.json
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.runtimeconfig.dev.json
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.dll
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\bin\Debug\netcoreapp2.1\NetCoreDemo.pdb
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.csprojAssemblyReference.cache
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorAssemblyInfo.cache
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorAssemblyInfo.cs
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.AssemblyInfoInputs.cache
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.AssemblyInfo.cs
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.dll
+C:\Users\Luo Aiqun\source\repos\NetCoreDemo\NetCoreDemo\obj\Debug\netcoreapp2.1\NetCoreDemo.pdb
