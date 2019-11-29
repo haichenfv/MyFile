@@ -1,0 +1,219 @@
+code 安装步骤：
+1、git 安装，clone 项目,使用azure账户克隆
+2、https://www.nuget.org/downloads 下载后放到C:\Windows\System32
+3、认证代理(初始化，pull 一些环境包)
+流程文件：https://encootech.sharepoint.cn/sites/encoo_all/_layouts/OneNote.aspx?id=%2Fsites%2Fencoo_all%2FShared%20Documents%2FR%26D%2FBotTime%20R%26D&wd=target%28Devops.one%7C7EA816CB-A3E8-4E10-9F7B-93AB7E3E2525%2FRepo%20management%7C94CA5F5F-4CA8-474E-A2FA-760BFFD19CAD%2F%29
+
+目录结构
+studio ide(主程序)
+activity (打成nuget包)
+package(用于下载流程)
+marketplace（web网页）
+
+命名规范：
+匈牙利 m_pl
+驼峰法 appleBananaCat
+帕斯卡 AppleBananaCat
+内部变量 _appleBanana
+
+yeild return 迭代中按需供给；
+async/await 异步和线程等待；
+
+func<T,TResult> 调用委托方法 T参数类型 TResult返回值类型
+long int64
+int 32
+short int16
+
+event  的 add remove 方法
+
+public
+internal 限定的是只有在同一程序集中可访问，可以跨类
+private
+protected 限定的是只有在继承的子类中可访问，可以跨程序集
+
+conditional 条件的
+obsolete 淘汰的
+assert 明确肯定
+orchestrtor 配器（构建器）
+deploy 部署
+sequence 序列
+preview 预告
+chart 图表
+variable 可变的，这边指变量
+transition 转变、过渡
+receive 拿到
+notification 通知
+artifact 手工艺品
+attach 附加
+abort 使流产
+vertical 垂直
+expression 表达
+extract 提取
+consignee 收货人
+roll 卷
+scope 范围
+transaction 交易
+pattern 模式
+formula 公式
+spire 尖顶
+detect 发现
+approve 同意
+region 区域
+paragraph 段落
+line 行
+feature 特色
+alternates 交替
+confidence 信心
+accurate 准确的
+detect 发现
+discard 丢弃
+restore 恢复
+constraint 约束
+constraint 限制、约定
+redirect 重定向
+
+双精度 double 64(1+11+52) 精确7位小数
+单精度 float 32(1+8+23) 精确15位小数
+
+uipath 登录
+https://account.uipath.com/login?state=g6Fo2SBJZ1AwS29IOXZWcks0X1VTZ3Z3NUtzVUpTTE9DdURhUqN0aWTZIDNWSURFVV9wX2FDR3Vkd2dHeUJmenFKSVRIN3NBcWhuo2NpZNkgVHRGeXhTQW11a2sydGlWNEJ1T0ViNk9GNUVHQ050YzU&client=TtFyxSAmukk2tiV4BuOEb6OF5EGCNtc5&protocol=oauth2&response_type=token%20id_token&redirect_uri=https%3A%2F%2Fplatform.uipath.com%2Fportal_%2Floginsuccess&scope=openid%20profile%20email&error_code=9016&hide_signup=true&type=login&signup_redirect_uri=https%3A%2F%2Fplatform.uipath.com%2Fportal_%2F&product_name=UiPath%20Cloud%20Platform&cloudrpa_signup_domain=platform.uipath.com&cloudrpa_signup_subdomain=%2Fportal_&register_endpoint=%2Fregister&company_code=B2B_CP&nonce=fn1xObatkzPLxPJvOZ-3hL5qNX7-xA6H&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xMC4wIn0%3D
+uipath studio 界面：http://www.51uipath.com/uipath-studio%e7%94%a8%e6%88%b7%e7%95%8c%e9%9d%a2%e7%ae%80%e4%bb%8b/
+
+azureDevpos
+https://dev.azure.com/encootech/digi4th/_git/digi4thpackage?version=GBdev
+microsoft文档
+https://docs.microsoft.com/zh-cn/dotnet/csharp/
+
+a ?? b null合并运算符，当a不为null,直接返回，为null,则和右侧进行运算后返回；
+a ??= b
+
+aggregate 累加器函数  aggregate（body,next）
+
+git 操作
+pull 拉取 fetch+meger
+fetch 获取（提取）
+meger 合并 
+commit 提交
+push 推送
+pull+push 同步
+switch 变基到（切换分支）
+
+初始化流程
+git branch -vv
+git status
+git restore *
+git checkout dev
+git pull
+git branch -vv
+init.bat  批处理文件
+echo off 执行以后，后面所有的命令均不显示，但本条命令是显示的。
+
+git branch -D XXXX 删除分支
+git fetch -p 
+git checkout -b XXXX orinin/master 从远程主分支上创建分支
+git push origin HEAD:private/aiqun/namechange
+遇到confilct 冲突，一般是当前分支和要合的主分支有冲突，需要将主分支pull到最新，然后切到自己的分支 git merge mater,解决confilct.
+
+切换分支前需要commit原分支修改内容；
+创建分支，先切到需要继承的主分支上，再创建分支，checkout -b XXX oringin/master 会在远程主分支上创建并绑定，push 的时候会直接push到主分支
+
+文件属性路径粘贴板 unicode 保存导致多出空字符：
+
+证明string类型 不是对象类型，作为参数，值在函数里更改了，外边还是没变
+参数 this 扩展方法
+参数类型 in out ref
+
+任务 exactPoToPDF
+已知PDF和一些需要提取的key, 根据key 查找 value,key 和 value 没有很好的对应关系，就不能够遍历所有查找keypaivalue
+1、转text，
+	1.1 纯文本，需要自己计算数据位置。 根据 rectangle 确定内容
+ 	1.2 带表格的文本，遍历单元格，根据单元格查找内容，问题是可能会有分区错误。提取数据会比较麻烦（key 和 值可能分处两个单元格，或者一个值分处多个单元格，xml 也有同样的问题）
+2、 转excel 
+3、 转 word,获取表格信息（https://blog.csdn.net/bdbox/article/details/82217725）
+
+*.xlsx excel文件后缀
+
+git checkout -b XXX
+提交修改，清洁的工作区，再转换分支，在rebuilt
+gti文档：
+https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6
+
+PDF 转化文档
+https://www.sautinsoft.com/products/pdf-focus/convert-pdf-to-html-in-dotnet.php
+git formrecognizer
+https://github.com/Azure-Samples/cognitive-services-quickstart-code
+
+墨迹识别器
+终结点: https://api.cognitive.microsoft.com/inkrecognizer
+密钥 1: 7713ea2304d1436c933578e59d1ea184
+密钥 2: 1a24dcf721d24cb78b1ce8412f3b80ca
+墨迹步骤：
+1、根据手写材料创建 数字轨迹
+2、请求api ,获取jons分析数据
+3、解析数据，获取最终结果
+不考虑识别结果的正确性
+
+azure表单识别器
+申请form recognizer的访问权限，获取 subscriptionkey 和 endpoint
+读取表单 使用custom 训练模型,需要配置训练数据的SAS URI
+共享访问签名：账户级SAS、服务级SAS、用户委托SAS
+输入要求：
+1、jpg、png、pdf
+2、文件大小小于4M
+3、像素在600X100 和 4200X4200之间
+4、暂时只支持英文字符
+result : pages(list<keypairvalue>,list<datatable>)
+
+模板存放位置：\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\name.zip
+
+tencent api
+通用文字识别
+1、通用印刷体识别-精简版
+2、通用印刷体识别
+3、通用印刷体识别-高速版
+4、通用手写体识别
+5、快速文本检测
+6、二维码和条形码识别
+secretId : AKIDOZWDoMUrxpXBXzkqTs2yqeJWfsqflxQQ
+secretKey: ygKm25uJSTJvGcvmW0VmpiN6ZndCVYLs
+
+ali api
+1、通用文字识别 可以识别中英文（可以获取表格信息，只识别图片）
+2、文档结构化识别 （可以定位文档边界，找到主体内容）
+3、英文专向识别 对包含的中文不能识别（英文表格解析较好，会出现文字会丢 如 precarriage => pre cam by）
+4、网络电商图片识别 
+
+sealed 表示该类不能被继承，不能和abstract 一起使用（abstract 不能被继承没有意义）
+j=++i; 前自增，先自增再传值；
+j=i++; 后自增，先传值再自增；
+
+云阔图像识别v2：
+Key: bcbc5540348d973de9007258d0fb86e0
+Secret: c05303be78b57dfa149b392bd9ffa058
+
+订单信息获取2：
+document no
+table info
+total
+remark 里面 contract no 
+app_key： 3afee5ef455749a0f9207d7097bb826d 
+app_secret： ca0fbfcf31b7412fe56b9eccef0c3271
+
+BitMiracle PDF
+license: 4XPNP-7AYKP-53345-N2KE9-FOSBG
+
+类属性{get;set;} = value，设置默认值
+list.foreach(p-p.property = X);
+注意点：
+1、输入值的检测，是否为空
+2、
+
+
+commit msg:
+1、add XXX function
+2、update XXX
+3、fix comments
+4、fix bug
+
+nuget 发布：https://blog.csdn.net/gulijiang2008/article/details/41724927
+doc: https://docs.microsoft.com/zh-cn/nuget/reference/cli-reference/cli-ref-push
